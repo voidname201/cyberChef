@@ -23,6 +23,7 @@ every day
   [] ability to fetch lyrics + video from youtube by song name
   [] minus
   [] recording
+  [] notes correction
 - desktop: stream video + text
 
 ### 2
