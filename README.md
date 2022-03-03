@@ -2,10 +2,17 @@
 
 ## usecases
 
+**target audience:**  
+low-skill to mid-skill musicians
+
 ### 1
 
-Ways of achieving:
+Ways of achieving:  
+program  
+rigorously  
+every day  
 
+**Vocal:** 
 - terminal: audio + text
 - web*: MVP: embed video + text
   [] python backend
@@ -13,7 +20,20 @@ Ways of achieving:
   [] buy domain
   [] figure out the name
   [] change text color
+  [] ability to fetch lyrics + video from youtube by song name
+  [] minus
+  [] recording
 - desktop: stream video + text
+
+### 2
+
+**Guitar**:  
+- spaced-repetitions learning(SRL) of chords
+- song lyrics SRL
+- metronome
+- exam
+
+### random musings
 
 text & music video are appering on the same screen
 
